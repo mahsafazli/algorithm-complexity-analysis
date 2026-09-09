@@ -39,16 +39,16 @@ For each input size, the program measures and displays the execution time of eac
 
 The measured execution times for each complexity class are shown below. As the input size increases, the results demonstrate the significant performance differences between linear, quasilinear, quadratic, and cubic growth.
 
-![Execution Time Results](images/results-table.png)
+![Execution Time Results](Images/results-table.png)
 
 ## Runtime Visualizations
 
 The following charts visualize how execution time changes as the input size increases.
 
-![Linear Runtime](images/linear-runtime.png)
-![N Log N Runtime](images/nlogn-runtime.png)
-![Quadratic Runtime](images/quadratic-runtime.png)
-![Cubic Runtime](images/cubic-runtime.png)
+![Linear Runtime](Images/linear-runtime.png)
+![N Log N Runtime](Images/nlogn-runtime.png)
+![Quadratic Runtime](Images/quadratic-runtime.png)
+![Cubic Runtime](Images/cubic-runtime.png)
 
 ## Handling Large Inputs
 
