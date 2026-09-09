@@ -35,6 +35,21 @@ For each input size, the program measures and displays the execution time of eac
 - Runtime Benchmarking
 - `std::chrono`
 
+## Experimental Results
+
+The measured execution times for each complexity class are shown below. As the input size increases, the results demonstrate the significant performance differences between linear, quasilinear, quadratic, and cubic growth.
+
+![Execution Time Results](images/results-table.png)
+
+## Runtime Visualizations
+
+The following charts visualize how execution time changes as the input size increases.
+
+![Linear Runtime](images/linear-runtime.png)
+![N Log N Runtime](images/nlogn-runtime.png)
+![Quadratic Runtime](images/quadratic-runtime.png)
+![Cubic Runtime](images/cubic-runtime.png)
+
 ## Handling Large Inputs
 
 Quadratic and cubic tests were intentionally skipped at larger input sizes because the number of operations grows rapidly and would result in excessive execution times.
