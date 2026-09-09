@@ -69,6 +69,12 @@ This demonstrates why algorithmic complexity becomes increasingly important as i
 - Actual execution times vary depending on hardware, compiler optimization, memory access, and system load.
 - The experimental results demonstrate the practical effect predicted by theoretical Big-O analysis.
 
+## Program Output
+
+Example output from running the C++ benchmarking program:
+
+![Program Output](Images/program-output.png)
+
 ## Author
 
 Mahsa Fazli
