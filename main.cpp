@@ -1,4 +1,4 @@
-//Student name: Mahsa Fazli 1271287
+//Author: Mahsa Fazli 
 
 #include <iostream>
 #include <chrono> //For measuring time (start and end points, duration)
